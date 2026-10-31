@@ -1,0 +1,3 @@
+- insert:
+    - id: eye-guard
+      name: '@local/dsh-eye-guard'
